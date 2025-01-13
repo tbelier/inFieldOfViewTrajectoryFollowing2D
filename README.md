@@ -7,4 +7,4 @@ Little animation which represents a debbin's car following another one. Each tim
 
 This project visualizes the animation in an intuitive way. Below is an example of the animation:
 
-![Animation View](./img/animation.png)
+![Animation View](./img/view1.png)
